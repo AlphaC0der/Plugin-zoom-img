@@ -1,4 +1,4 @@
-<h1><strong>OptimizedHTML 4:</strong> <br>Startup HTML template based on Gulp & Bootstrap 4</h1>
+<h1><strong>OptimizedHTML 4:</strong> <br>Plugin js zoom images, template based on Gulp & Bootstrap 4</h1>
 
 <p>
 
@@ -6,7 +6,7 @@
 
 <p>Author: <a href="http://alpha-coder.kz" target="_blank">Alpha-Coder</a></p>
 
-<p>OptimizedHTML is all-inclusive start HTML5 template with Bootstrap 4 (grid & reboot), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Rsync and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
+<p>Plugin js zoom images template with Bootstrap 4 (grid & reboot), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Rsync and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
 <p><strong>OptimizedHTML 4</strong> Start Template uses the best practices of web development.</p>
 
@@ -29,7 +29,7 @@
 	<li><strong>rsync</strong>: project deployment on the server from <strong>dist</strong> folder via <strong>RSYNC</strong>;</li>
 </ul>
 
-<h2>Rules for working with the starting HTML template</h2>
+<h2>Rules for working with the starting Plugin js zoom images</h2>
 
 <ol>
 	<li>All HTML files should have similar initial content as in <strong>app/index.html</strong>;</li>
